@@ -1,0 +1,15 @@
+C:\Users\Кирилл\Desktop\Kirill\botvenkov\bin\Debug\net7.0\botvenkov.exe
+C:\Users\Кирилл\Desktop\Kirill\botvenkov\bin\Debug\net7.0\botvenkov.deps.json
+C:\Users\Кирилл\Desktop\Kirill\botvenkov\bin\Debug\net7.0\botvenkov.runtimeconfig.json
+C:\Users\Кирилл\Desktop\Kirill\botvenkov\bin\Debug\net7.0\botvenkov.dll
+C:\Users\Кирилл\Desktop\Kirill\botvenkov\bin\Debug\net7.0\botvenkov.pdb
+C:\Users\Кирилл\Desktop\Kirill\botvenkov\obj\Debug\net7.0\botvenkov.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Desktop\Kirill\botvenkov\obj\Debug\net7.0\botvenkov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\Desktop\Kirill\botvenkov\obj\Debug\net7.0\botvenkov.AssemblyInfoInputs.cache
+C:\Users\Кирилл\Desktop\Kirill\botvenkov\obj\Debug\net7.0\botvenkov.AssemblyInfo.cs
+C:\Users\Кирилл\Desktop\Kirill\botvenkov\obj\Debug\net7.0\botvenkov.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\Kirill\botvenkov\obj\Debug\net7.0\botvenkov.dll
+C:\Users\Кирилл\Desktop\Kirill\botvenkov\obj\Debug\net7.0\refint\botvenkov.dll
+C:\Users\Кирилл\Desktop\Kirill\botvenkov\obj\Debug\net7.0\botvenkov.pdb
+C:\Users\Кирилл\Desktop\Kirill\botvenkov\obj\Debug\net7.0\botvenkov.genruntimeconfig.cache
+C:\Users\Кирилл\Desktop\Kirill\botvenkov\obj\Debug\net7.0\ref\botvenkov.dll
